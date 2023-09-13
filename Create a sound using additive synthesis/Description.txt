@@ -1,0 +1,1 @@
+﻿It sounds like a wooden percussion instrument in an open space. I adjusted the LFO module to make a ticking sound and added a reverb effect to resonate it.
