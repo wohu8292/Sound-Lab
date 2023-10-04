@@ -20,4 +20,4 @@ after ableton work
 Hammond M3 Organ Sampling.wav
 (8-12s) spectural resonator
 (-17s) adding some noise using vocoder
-(21-) increased amount of delay effect slowly
+(21) increased amount of delay effect slowly
