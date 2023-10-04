@@ -2,7 +2,7 @@ I've sampled hammond organ by using the line out into my computer.
 I've used lower keyboard for low frequency and upper keyboard for high frequency
 
 --------------------
-sample directly from hammond organ (original sound before adding effect.wav)
+original sound before adding effect.wav
 --------------------
 
 (-5s) vibrato on lower frequency / no vibrato on high frequency
@@ -13,7 +13,7 @@ sample directly from hammond organ (original sound before adding effect.wav)
 (-33s) chorus?
 
 --------------------
-after ableton work (Hammond M3 Organ Sampling.wav)
+Hammond M3 Organ Sampling.wav
 --------------------
 
 (8-12s) spectural resonator
